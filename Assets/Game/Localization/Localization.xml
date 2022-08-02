@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key NameKey="WelcomeGame_Key">
+		<Translates>
+			<ru-RU>Добро пожаловать в игру 1640!</ru-RU>
+			<en-US>Welcome to the 1640 Game!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="SimpleRules_Key">
+		<Translates>
+			<ru-RU>Правила этой игры очень просты.</ru-RU>
+			<en-US>Rules of this game are very simple.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Well_Key">
+		<Translates>
+			<ru-RU>Итак!</ru-RU>
+			<en-US>So!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="LeftScreenTask_Key">
+		<Translates>
+			<ru-RU>На левом экране калькулятора генерируется определенное число.</ru-RU>
+			<en-US>A certain number is generated on the left screen of the calculator.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="RightScreenTask_Key">
+		<Translates>
+			<ru-RU>Твоя задача состоит в том, чтобы получить это число на правом экране.</ru-RU>
+			<en-US>Your task is to get this number on the right screen.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="ReadyNumber_Key">
+		<Translates>
+			<ru-RU>Получать это число ты можешь различными действиями</ru-RU>
+			<en-US>You can get this number by various actions</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="D_Key">
+		<Translates>
+			<ru-RU>+ - * /</ru-RU>
+			<en-US>+ - * /</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Dno_Key">
+		<Translates>
+			<ru-RU>Однако на разных уровнях игры можно использовать, только определëнные из них!</ru-RU>
+			<en-US>However, at different levels of the game, you can use only certain of them!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="ArrowKeys_Key">
+		<Translates>
+			<ru-RU>Посмотреть доступные, можно стрелочками влево и вправо, если они не заблокированы.</ru-RU>
+			<en-US>You can view the available ones by using the left and right arrows, if they are not blocked.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="NoStoped_Key">
+		<Translates>
+			<ru-RU>Однако, это ещë не все.</ru-RU>
+			<en-US>However, this is not all.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="NumberMinTask_Key">
+		<Translates>
+			<ru-RU>Получить число, нужно за минимальное число шагов.</ru-RU>
+			<en-US>You need to get the number in the minimum number of steps.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="DeadScreenTest_Key">
+		<Translates>
+			<ru-RU>Если превысить данный минимум игра заканчивается, а твой результат записывается в таблицу лидеров.</ru-RU>
+			<en-US>If you exceed this minimum, the game ends, and your result is recorded in the leaderboard.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="NoBestResult_Key">
+		<Translates>
+			<ru-RU>Правда, если он был лучше предыдущего.</ru-RU>
+			<en-US>True, if it was better than the previous one.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="GoodLuck_Key">
+		<Translates>
+			<ru-RU>В любом случае, желаю успехов и пройти как можно больше уровней!</ru-RU>
+			<en-US>In any case, I wish you success and complete as many levels as possible!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="AndYes_Key">
+		<Translates>
+			<ru-RU>И да!</ru-RU>
+			<en-US>And yes!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Error_Key">
+		<Translates>
+			<ru-RU>Если ты у себя увидишь ошибку.</ru-RU>
+			<en-US>If you see a mistake at home.</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="BackResult_Key">
+		<Translates>
+			<ru-RU>Всегда можешь вернуть предыдущий результат, нажав на эту кнопку!</ru-RU>
+			<en-US>You can always return the previous result by clicking on this button!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="And_Key">
+		<Translates>
+			<ru-RU>Или...</ru-RU>
+			<en-US>Or...</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="ErrorNo_Key">
+		<Translates>
+			<ru-RU>Если ты видишь, что на предыдущих шагах, ошибок нет, то...</ru-RU>
+			<en-US>If you see that there are no errors in the previous steps, then...</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="NextResult_Key">
+		<Translates>
+			<ru-RU>Всегда можешь вернуть текущий результат нажав на эту кнопку!</ru-RU>
+			<en-US>You can always return the current result by clicking on this button!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Level_Key">
+		<Translates>
+			<ru-RU>Уровень:</ru-RU>
+			<en-US>Level:</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="CountW_Key">
+		<Translates>
+			<ru-RU>Количество шагов:</ru-RU>
+			<en-US>Number of steps:</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Dead1_Key">
+		<Translates>
+			<ru-RU>Оставьте эту игру до следующего раза</ru-RU>
+			<en-US>Leave this game until next time</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Dead2_Key">
+		<Translates>
+			<ru-RU>Почти у цели</ru-RU>
+			<en-US>Almost there</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Dead3_Key">
+		<Translates>
+			<ru-RU>В следующий раз повезёт!</ru-RU>
+			<en-US>Better luck next time!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Dead4_Key">
+		<Translates>
+			<ru-RU>Игра окончена</ru-RU>
+			<en-US>Game over</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="ResultMM_Key">
+		<Translates>
+			<ru-RU>Текущее место в рейтинге:</ru-RU>
+			<en-US>Current ranking position:</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Timeleft_Key">
+		<Translates>
+			<ru-RU>Времени прошло:</ru-RU>
+			<en-US>Time has passed:</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="LevelComplete_Key">
+		<Translates>
+			<ru-RU>Уровней пройдено:</ru-RU>
+			<en-US>Levels passed:</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="BackResultMM_Key">
+		<Translates>
+			<ru-RU>Предыдущий результат:</ru-RU>
+			<en-US>Previous result:</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Loading_Key">
+		<Translates>
+			<ru-RU>Загрузка</ru-RU>
+			<en-US>Loading</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="ContiuneGame_Key">
+		<Translates>
+			<ru-RU>Продолжить игру?!</ru-RU>
+			<en-US>Continue playing?!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="EndGame1_Key">
+		<Translates>
+			<ru-RU>Поздравляю с прохождением игры 1640!</ru-RU>
+			<en-US>Congratulations on completing the game 1640!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="EndGame2_Key">
+		<Translates>
+			<ru-RU>Не думал, что кто-нибудь до берётся до сюда…</ru-RU>
+			<en-US>I didn't think anyone would get here…</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="EndGame3_Key">
+		<Translates>
+			<ru-RU>Однако, в таком случае…</ru-RU>
+			<en-US>However, in this case,…</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="EndGame4_Key">
+		<Translates>
+			<ru-RU>У меня для тебя есть щедрая награда…</ru-RU>
+			<en-US>I have a generous reward for you…</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="EndGame5_Key">
+		<Translates>
+			<ru-RU>Вот возьми и не забудь рассказать другим! Мало ли это их заинтерисует:)</ru-RU>
+			<en-US>Here, take it and don't forget to tell others! You never know if they'll be interested:)</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Congration_Key">
+		<Translates>
+			<ru-RU>Поздравляем!</ru-RU>
+			<en-US>Congratulations!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="FullGameComplete_Key">
+		<Translates>
+			<ru-RU>Вы полностью прошли игру 1640!</ru-RU>
+			<en-US>You have completely passed the game 1640!</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="ShareGameMoment_Key">
+		<Translates>
+			<ru-RU>Поделитесь этим моментом с друзьями мало ли их это заинтерисует:)</ru-RU>
+			<en-US>Share this moment with your friends you never know if they will be interested in it:)</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="PlayButton_Key">
+		<Translates>
+			<ru-RU>Играть</ru-RU>
+			<en-US>Play</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Tutorial_Key">
+		<Translates>
+			<ru-RU>Обучение</ru-RU>
+			<en-US>Tutorial</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Pause_Key">
+		<Translates>
+			<ru-RU>ПАУЗА</ru-RU>
+			<en-US>PAUSE</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Resume_Key">
+		<Translates>
+			<ru-RU>Продолжить</ru-RU>
+			<en-US>Resume</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="RestartGame_Key">
+		<Translates>
+			<ru-RU>Начать зан.</ru-RU>
+			<en-US>Restart</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="Achivements_Key">
+		<Translates>
+			<ru-RU>ДОСТИЖЕНИЯ</ru-RU>
+			<en-US>ACHIEVEMENTS</en-US>
+		</Translates>
+	</Key>
+	<Key NameKey="SaveAndQuit_Key">
+		<Translates>
+			<ru-RU>Сохр. и выйти</ru-RU>
+			<en-US>Save and quit</en-US>
+		</Translates>
+	</Key>
+</Keys>
